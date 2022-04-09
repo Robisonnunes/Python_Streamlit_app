@@ -1,0 +1,23 @@
+codigo_ibge,nome,latitude,longitude,capital,codigo_uf,local_de_teste,nome,endereco,telefone
+1,Goiânia,-16.58652462294468, -49.338631957915,0,52,1,USF Boa Vista,'Boa Vista Goiânia - GO 74477-443',62-32994872
+2,Goiânia,-16.678723271690124,-49.31130317140703,0,52,1,CS Cidade Jardim,'Praça Abel Coimbra 350 - Cidade Jardim Goiânia - GO,62-35241956
+3,Goiânia,-16.623879280505335, -49.2192324155858,0,52,1,USF GUANABARA I,'R. Porto Alegre 44 - Jardim Guanabara Goiânia - GO,62-35241885
+4,Goiânia,-16.622240037300465, -49.34137561558584,0,52,1,USF Novo Planalto,'Rua Vm Três E. qd 95 - St. Novo Planalto Goiânia - GO,62-35955954
+5,Goiânia,-16.724612813857387, -49.371785544420334,0,52,1,USF Parque Santa Rita,'Av. Americano do Brasil s/n - Parque Santa Rita Goiânia - GO,62-32566233
+6,Goiânia,-16.79490993575179,-49.375648786748556,0,52,1,USF Residencial Itaipu,'R. Ri 9 08 - Qd 107 - Residencial Itaipú Goiânia - GO,62-35783428
+7,Goiânia,-16.651429415831124, -49.18321043259087,0,52,1,USF Recanto das Minas Gerais,'Rua Siena s/n - St. Recanto das Minas Gerais Goiânia - GO,62-35241877
+8,Goiânia,-16.67198062117104, -49.3229142732566,0,52,1,USF São Francisco,'Av. das Palmeiras Bairro - s/n - São Francisco Goianira - GO,62-35243417
+9,Goiânia,-16.615129531704124,-49.24857080004376,0,52,1,USF São Judas Tadeu,'Avenida Brasília esquina com Rua Santana Qd. 30 - Vila Jardim São Judas Tadeu Goiânia - GO 74685-460',62-35241845
+10,Goiânia,-16.677630601411757,-49.382755872254066,0,52,1,USF Vera Cruz II,'Av. Leopoldo de Bulhões s/n - Conj. Vera Cruz Goiânia - GO,62-35242410
+11,Goiânia,-16.740413106691268, -49.18967466040661,0,52,1,USF Ville de France,'R. 305 57-119 - Res. Ville de France Goiânia - GO,62-32848382
+12,Aparecida de Goiânia,-16.83514522645231,-49.2491053557892,0,52,1,UPA Brasicon,'Res. Brasicon Aparecida de Goiânia - GO 74976-030',62-35241845
+13,Aparecida de Goiânia,-16.791419760789097, -49.32514781743348,0,52,1,UPA Buriti,'R. Barão de Mesquita S/n - Buriti Sereno Aparecida de Goiânia - GO,62-35370147
+14,Aparecida de Goiânia,-16.74236573769525,-49.22817657325575,0,52,1,UPA Flamboyant,'R. W 3-A 93-127 - Parque Flamboyant Aparecida de Goiânia - GO,62-35454739
+15,Aparecida de Goiânia,-16.804480398499496,-49.29417631358062,0,52,1,UBS Pontal Sul,'Av. Anchieta 461-541 - St. Pontal Sul Aparecida de Goiânia - GO,0
+16,Aparecida de Goiânia,-16.758013412438945,-49.330575144420166,0,52,1,UBS Garavelo Park,'198 R. 36-E 2 - St. Garavelo  Aparecida de Goiânia - GO ,62-35783861
+17,Aparecida de Goiânia,-16.82596158965982,-49.30810134256987,0,52,1,UBS Independência Mansões,'R. 56 352-488 - Bairro Independência Mansões Aparecida de Goiânia - GO,62-35456552
+18,Aparecida de Goiânia,-16.807735171910316,-49.32181705791254,0,52,1,UBS Jardim Tiradentes,'R. 10 319-379 - Jardim Tiradentes Aparecida de Goiânia - GO,62-35454840
+19,Aparecida de Goiânia,-16.781780422267378,-49.30948234257039,0,52,1,UBS Buriti Sereno,'R. Paulo Setúbal 482 - Jardim Buriti Sereno Aparecida de Goiânia - GO,62-32584154
+20,Aparecida de Goiânia,-16.815163096757825,-49.23312343092625,0,52,1,UBS Expansul,'Av. Cel. Augusto de Bastos - Expansul Aparecida de Goiânia - GO 74986-270',62-35456556
+21,Senador Canedo,-16.647151182812916,-49.148721257850205,0,52,1,usf parque alvorad,'Av. Sen. Canedo S/N - Estrela do Sul Sen. Canedo - GO,62-32753716
+22,Senador Canedo,-16.676629326818404,-49.119124002092256,0,52,1,Upa Senador canedo,'Av Geronimo Vieira De Freitas Apm 5 - Res. Campo Belo Sen. Canedo - GO 75258-444',62-35322097
